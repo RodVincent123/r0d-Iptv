@@ -1,0 +1,351 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://bit.ly/RodEPG01" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://bit.ly/RodEPG02" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://bit.ly/RodEPG03" refresh="1440" max-conn="1" refresh="24"
+
+==========================================================================================================
+LOCAL CHANNELS
+
+
+#EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="Local Channels", A2Z
+http://45.89.149.2/stream/kapamilya/a2z/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:-1 tvg-id="GMA.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://imgur.com/Fh3IJUN.png" group-title="Local Channels", GMA
+http://45.89.149.2/stream/kapamilya/gma/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:-1 tvg-id="GTV.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="Local Channels", GTV
+http://45.89.149.2/stream/kapamilya/gtv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:-1 tvg-id="I.Heart.Movies.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://imgur.com/eliuWJC.png" group-title="Local Channels", I Heart Movies
+http://vstream.vip:2889/live/F9B70C34075EC9E872C51710341D1033/4631
+
+#EXTINF:-1 tvg-id="Heart.of.Asia.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://imgur.com/9o1r014.png" group-title="Local Channels", Heart of Asia
+http://vstream.vip:2889/live/F9B70C34075EC9E872C51710341D1033/4642
+
+#EXTINF:-1 tvg-id="ALL.TV.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/wo8vkU8.png" group-title="Local Channels", ALL TV
+http://vstream.vip:2889/live/658E7A4A614442F31C46A7C91745A0C4/3889
+
+#EXTINF:-1 tvg-id="Jeepney.TV.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Local Channels", Jeepney TV
+https://bisdaktv.serv00.net/channel.php?id=165
+
+#EXTINF:-1 tvg-id="IBC.TV.13.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/Org4yTu.png" group-title="Local Channels", IBC 13
+http://user.scalecdn.co:8080/43560245/01453157/567719
+
+#EXTINF:-1 tvg-id="Rptv.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/IDCHfXm.png" group-title="Local Channels", RPTV
+http://45.89.149.2/stream/kapamilya/rptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+http://103.152.216.26:8443/live/live/Zx0TLK0C7X5RjGG1z2dAUA/1719518438/127.m3u8
+
+#EXTINF:-1 tvg-id="Buko.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="Local Channels", BuKo
+http://45.89.149.2/stream/kapamilya/buko/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:-1 tvg-id="Knowledge.Channel.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Local Channels", Knowledge Channel
+http://user.scalecdn.co:8080/43560245/01453157/567726
+
+#EXTINF:-1 tvg-id="CLTV.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://imgur.com/K5nasny.png" group-title="Local Channels", CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+
+#EXTINF:-1 tvg-id="Onesports.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="Local Channels", One Sports
+http://user.scalecdn.co:8080/43560245/01453157/546796
+
+#EXTINF:-1 tvg-id="Oneph.ph" group-logo="https://imgur.com/GRnd2Aq.png" tvg-logo="https://i.imgur.com/syEhuvH.png" group-title="Local Channels", One PH
+http://user.scalecdn.co:8080/43560245/01453157/567732
+
+==========================================================================================================
+KIDS CHANNELS
+
+
+#EXTINF:-1 tvg-id="1.etv" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/PZ7Gmo9.png" group-title="Kids Channnels", Anime Tagalized Channel
+http://139.59.217.209:8409/iptv/session/1/hls.m3u8
+
+#EXTINF:-1 tvg-id="boomerang.us" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/VWbnCp7.png" group-title="Kids Channnels", Boomerang
+http://user.scalecdn.co:8080/43560245/01453157/2656
+
+#EXTINF:-1 tvg-id="CBeebies.(HD).sg" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/1uG5QLr.png" group-title="Kids Channnels", CBeebies
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/247448
+
+#EXTINF:-1 tvg-id="Cg.Dreamworktag.ph" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="Kids Channels", DreamWorks (Tagalized)
+http://45.89.149.2/stream/kapamilya/dreamworkstagalog/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF: -1 tvg-id="disneychannel.us" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/4HvFtJM.png" group-title="Kids Channnels", Disney Channel
+http://user.scalecdn.co:8080/43560245/01453157/3630
+
+#EXTINF:-1 tvg-id="disneyjunior.us" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/AqZnBYG.png" group-title="Kids Channnels", Disney Jr.
+http://user.scalecdn.co:8080/43560245/01453157/3632
+
+#EXTINF:-1 tvg-id="disneyxd.us" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/EzEeSKn.png" group-title="Kids Channnels", Disney XD
+http://user.scalecdn.co:8080/43560245/01453157/3631
+
+#EXTINF:-1 tvg-id="nicktoons.us" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/oTDEw1h.png" group-title="Kids Channnels", NickToons
+https://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick.Jr..Too.uk" group-logo="https://imgur.com/zmY0Jqr.png" tvg-logo="https://imgur.com/TuZXvMM.png" group-title="Kids Channnels", Nick Jr. Too
+http://user.scalecdn.co:8080/43560245/01453157/2238
+
+==========================================================================================================
+SPORTS CHANNELS
+
+
+#EXTINF:-1 tvg-id="Pbarush.Hd.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://i.imgur.com/J4QCDLG.png" group-title="Sports Channels", PBA Rush
+http://user.scalecdn.co:8080/43560245/01453157/651751
+
+#EXTINF:-1 tvg-id="NBA.TV.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://i.imgur.com/g5Q35IH.png" group-title="Sports Channels", NBA TV Philippines
+http://45.89.149.2/stream/kapamilya/nbaphilippines/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+https://bisdaktv.serv00.net/channel.php?id=136
+
+#EXTINF:-1 tvg-id="Uaap.Varsity.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://i.imgur.com/rifinVV.png" group-title="Sports Channels", UAAP Varsity Channel
+http://user.scalecdn.co:8080/43560245/01453157/651752
+
+#EXTINF:-1 tvg-id="Tap.Sports.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://i.imgur.com/jcNrXsy.png" group-title="Sports Channels", Tap Sports
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/299945
+
+#EXTINF:-1 tvg-id="Cg.Mptv.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/ZHsEAnC.png" group-title="Sports Channels", MPTV
+http://45.89.149.2/stream/kapamilya/mptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:-1 tvg-id="espn.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/dmffhkE.png" group-title="Sports Channels", ESPN
+http://user.scalecdn.co:8080/43560245/01453157/3725
+
+#EXTINF:-1 tvg-id="espn2.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/cDYWitf.png" group-title="Sports Channels", ESPN 2
+http://user.scalecdn.co:8080/43560245/01453157/3637
+
+#EXTINF:-1 tvg-id="espnnews.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/bIiCB7d.png" group-title="Sports Channels", ESPN News
+http://user.scalecdn.co:8080/43560245/01453157/2577
+
+#EXTINF:-1 tvg-id="PREMIER.SPORTS.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="Sports Channels", Premier Sports
+http://s.octotv.live/play/live.php?mac=00:1A:79:67:6B:5B&stream=926155&extension=ts
+
+#EXTINF:-1 tvg-id="PREMIER.SPORTS.ph" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/ltqxAfH.png" group-title="Sports Channels", Premier Sports 2
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/276599
+
+#EXTINF:-1 tvg-id="foxsports1.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/oFnqhzN.png" group-title="Sports Channels", Fox Sports 1
+http://user.scalecdn.co:8080/43560245/01453157/3645
+
+#EXTINF:-1 tvg-id="foxsports2.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/D8dHCSh.png" group-title="Sports Channels", Fox Sports 2
+http://user.scalecdn.co:8080/43560245/01453157/3646
+
+#EXTINF:-1 tvg-id="altitudesport.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/lOqXKE5.png" group-title="Sports Channels", Altitude Sports
+http://user.scalecdn.co:8080/43560245/01453157/332892
+
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/Nf3DfRs.png" group-title="Sports Channels", CBS Sports Network
+http://user.scalecdn.co:8080/43560245/01453157/3712
+
+#EXTINF:-1 tvg-id="nbatv.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/JMNlay7.png" group-title="Sports Channels", NBA TV
+http://user.scalecdn.co:8080/43560245/01453157/2470
+
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/RRivh6o.png" group-title="Sports Channels", NBC Sports Bay Area
+http://user.scalecdn.co:8080/43560245/01453157/2436
+
+#EXTINF:-1 tvg-id="nbcsportsboston.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/2YWgs8h.png" group-title="Sports Channels", NBC Sports Boston
+http://user.scalecdn.co:8080/43560245/01453157/3772
+
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/7oSsgVe.png" group-title="Sports Channels", NBC Sports California
+http://user.scalecdn.co:8080/43560245/01453157/50963
+
+#EXTINF:-1 tvg-id="nbcsportschicago.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/F7n9nQk.png" group-title="Sports Channels", NBC Sports Chicago
+http://user.scalecdn.co:8080/43560245/01453157/3771
+
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/7en13sf.png" group-title="Sports Channels", NBC Sports Philadelphia
+http://user.scalecdn.co:8080/43560245/01453157/3769
+
+#EXTINF:-1 tvg-id="spectrumsportnet.us" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/WWSM8X0.png" group-title="Sports Channels", Spectrum Sportsnet
+http://user.scalecdn.co:8080/43560245/01453157/552928
+
+#EXTINF:-1 tvg-id="btsport1.uk" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/RJMMevJ.png" group-title="Sports Channels", TNT Sports 1
+http://user.scalecdn.co:8080/43560245/01453157/2337
+
+#EXTINF:-1 tvg-id="btsport2.uk" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/UpZSXxw.png" group-title="Sports Channels", TNT Sports 2
+http://user.scalecdn.co:8080/43560245/01453157/2336
+
+#EXTINF:-1 tvg-id="btsport3.uk" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/3qc8Uyg.png" group-title="Sports Channels", TNT Sports 3
+http://user.scalecdn.co:8080/43560245/01453157/2335
+
+#EXTINF:-1 tvg-id="btsport4.uk" group-logo="https://imgur.com/1pGbPeG.png" tvg-logo="https://imgur.com/PrjTlPL.png" group-title="Sports Channels", TNT Sports 4
+http://user.scalecdn.co:8080/43560245/01453157/675021
+
+==========================================================================================================
+MOVIES CHANNELS
+
+
+#EXTINF:-1 tvg-id="Celestial.Movies.Pinoy.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Movies Channels", Celestial Movies Pinoy
+https://bisdaktv.serv00.net/channel.php?id=200
+
+#EXTINF:-1 tvg-id="Pbo.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/buOVATz.png" group-title="Movies Channels", Pinoy Box Office
+http://user.scalecdn.co:8080/43560245/01453157/567735
+
+#EXTINF:-1 tvg-id="Cg.Tagalogmovie.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Movies Channels", Tagalized Movie Channel
+https://bisdaktv.serv00.net/channel.php?id=102
+
+#EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/Tb34h8r.png" group-title="Movies Channels", tvN Movies Pinoy
+http://45.89.149.2/stream/kapamilya/tvnmoviespinoy/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+
+#EXTINF:-1 tvg-id="Thrill.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/0Edzaca.png" group-title="Movies Channels", Thrill
+http://user.scalecdn.co:8080/43560245/01453157/567745
+
+#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Movies Channels", Tap Movies
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/304253
+
+#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/PwM0arW.png" group-title="Movies Channels", Tap Action Flix
+http://s.octotv.live/play/live.php?mac=00:1A:79:67:6B:5B&stream=926149&extension=ts
+
+#EXTINF:-1 tvg-id="amc.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/kI4JVJ4.png" group-title="Movies Channels", AMC
+http://user.scalecdn.co:8080/43560245/01453157/3843
+
+#EXTINF:-1 tvg-id="5starmax.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/mD2Y8RG.png" group-title="Movies Channels", 5 Star Max
+http://user.scalecdn.co:8080/43560245/01453157/81384
+
+#EXTINF:-1 tvg-id="fxm.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/bRynbTk.png" group-title="Movies Channels", FXM
+http://user.scalecdn.co:8080/43560245/01453157/3736
+
+#EXTINF:-1 tvg-id="actionmax.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/b4lGbbm.png" group-title="Movies Channels", ActionMax
+http://user.scalecdn.co:8080/43560245/01453157/51557
+
+#EXTINF:-1 tvg-id="hbo2.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/VfVzhr9.png" group-title="Movies Channels", HBO 2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="hbocomedy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/PCoLkE6.png" group-title="Movies Channels", HBO Comedy
+https://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="hbozone.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/j5j1VvG.png" group-title="Movies Channels", HBO Zone
+https://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="moviemax.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/WWW8RFI.png" group-title="Movies Channels", MovieMax
+http://6oclock.xyz/LATONYAS/Mrslaysmith/457904
+
+#EXTINF:-1 tvg-id="moremax.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/0X6HRGD.png" group-title="Movies Channels", MoreMax
+http://user.scalecdn.co:8080/43560245/01453157/51557
+
+#EXTINF:-1 tvg-id="outermax.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/dknTicZ.png" group-title="Movies Channels", OuterMax
+http://user.scalecdn.co:8080/43560245/01453157/51555
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/zZ7o5Ea.png" group-title="Movies Channels", Paramount + with Showtime
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="starz.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/KHXHwgH.png" group-title="Movies Channels", STARZ
+https://fl2.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="syfy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/caFl4iH.png" group-title="Movies Channels", SYFY
+https://fl2.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="thrillermax.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/pmY2opC.png" group-title="Movies Channels", ThrillerMax
+http://user.scalecdn.co:8080/43560245/01453157/51554
+
+#EXTINF:-1 tvg-id="showtimeshowcase.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/mnwnvT5.png" group-title="Movies Channels", Showcase
+http://user.scalecdn.co:8080/43560245/01453157/3966
+
+#EXTINF:-1 tvg-id="sony.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/LZ8Nmem.png" group-title="Movies Channels", Sony Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SONY.PIX.HD.in" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/RuuP2V9.png" group-title="Movies Channels", Sony Pix HD
+http://103.86.134.34:9960/stream/channelid/50525956?ticket=D19ABE55F9ABD0943634645D4F70456D1DCA2DB9&profile=pass
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/gDIvqBQ.png" group-title="Movies Channels", Star Movies HD
+http://103.86.134.34:9960/stream/channelid/1327351295?ticket=225BF517B563BC187B91994941FCDF80DFF1661D&profile=pass
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/C7NJJkx.png" group-title="Movies Channels", Star Sellect Movies HD
+http://103.86.134.34:9960/stream/channelid/400626320?ticket=3E58FD74E1C249AC362B4DB7D0A723B11052294F&profile=pass
+
+#EXTINF:-1 tvg-id="Movies.Now.HD.in" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/KaaFElI.png" group-title="Movies Channels", Movies Now
+http://103.86.134.34:9960/stream/channelid/1834268484?ticket=91AE91ECD15F03BE47FEF9E4E392236390081BA3&profile=pass
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/2VBfkgE.png" group-title="Movies Channels", &flix HD
+http://103.86.134.34:9960/stream/channelid/400335987?ticket=B276EE506E87BFB964257B5E6792B710D65EF62E&profile=pass
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/aHzqzsD.png" group-title="Movies Channels", &prive HD
+http://103.86.134.34:9960/stream/channelid/717201957?ticket=AF7F71A4593AE7C432CB64947FE61E8DDAC81188&profile=pass
+
+==========================================================================================================
+RELIGIONAL CHANNELS
+
+
+#EXTINF:-1 tvg-id="CCTV.47.ph" group-logo="https://imgur.com/nip8fc9.png" tvg-logo="https://i.imgur.com/xr6wdXS.png" group-title="Religional Channels", CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="SMNI.ph" group-logo="https://imgur.com/nip8fc9.png" tvg-logo="https://i.imgur.com/F4M0JAO.png" group-title="Religional Channels", SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="GCTV.ph" group-logo="https://imgur.com/nip8fc9.png" tvg-logo="https://i.imgur.com/nE66GvE.png" group-title="Religional Channels", GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+==========================================================================================================
+ENTERTAINMENT CHANNELS
+
+
+#EXTINF:-1 tvg-id="Sari.Sari.ph" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="Entertainment Channels", Sari-Sari
+http://user.scalecdn.co:8080/43560245/01453157/567740
+
+#EXTINF:-1 tvg-id="Tap.Edge.ph" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/c1ldoiX.png" group-title="Entertainment Channels", Tap Edge
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/304251
+
+#EXTINF:-1 tvg-id="Taptv.ph" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Entertainment Channels", TapTV
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/304254
+
+#EXTINF:-1 tvg-id="aande.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/KZF9p94.png" group-title="Entertainment Channels", A&E
+http://user.scalecdn.co:8080/43560245/01453157/30881
+
+#EXTINF:-1 tvg-id="adultswim.ca" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZDc3MGIyLTNlNDktNDY3Mi05OWZiLTg0ODNiOWRkOWJmMFwvZGZsNnZ3dy05YWJiZTBjNy0zNzlkLTQ4NjYtYWIxMy1jYzFiMDE2MzZiNTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-n7vm6MNFdZwsg7zmuEupvrcysMJUwY3-MyCwIB3jkI" group-title="Entertainment Channels", Adult Swim
+http://user.scalecdn.co:8080/43560245/01453157/3077
+
+#EXTINF:-1 tvg-id="comedycentral.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/dPkTLgv.png" group-title="Entertainment Channels", Comedy Central
+http://user.scalecdn.co:8080/43560245/01453157/648957
+
+#EXTINF:-1 tvg-id="eentertainment.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/kOdQTrn.png" group-title="Entertainment Channels", E!
+http://user.scalecdn.co:8080/43560245/01453157/3635
+
+#EXTINF:-1 tvg-id="fx.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/48F3DqG.png" group-title="Entertainment Channels", FX
+http://user.scalecdn.co:8080/43560245/01453157/2498
+
+#EXTINF:-1 tvg-id="fxx.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/znAzpJx.png" group-title="Entertainment Channels", FXX
+http://user.scalecdn.co:8080/43560245/01453157/2496
+
+#EXTINF:-1 tvg-id="ABC.(KMGH).Denver,.CO.HD.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/UnSwaTK.png" group-title="Entertainment Channels", KMGH-ABC
+http://user.scalecdn.co:8080/43560245/01453157/2691
+
+#EXTINF:-1 tvg-id="mtv.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/KYWI9Pl.png" group-title="Entertainment Channels", MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="tbs.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/qNfIshv.png" group-title="Entertainment Channels", TBS
+https://fl2.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/1lBzf5W.png" group-title="Entertainment Channels", TNT
+https://fl2.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="trutv.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/oet9YC4.png" group-title="Entertainment Channels", TruTV
+https://143.244.60.30/TRU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="abcwcvb.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/6xa1RGP.png" group-title="Entertainment Channels", WCVB-ABC
+http://user.scalecdn.co:8080/43560245/01453157/2697
+
+#EXTINF:-1 tvg-id="ABC.(WMUR).Manchester,.NH.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/gxoOPVO.png" group-title="Entertainment Channels", WMUR-ABC
+http://user.scalecdn.co:8080/43560245/01453157/38299
+
+#EXTINF:-1 tvg-id="Story.(WPBF4).Tequesta,.FL.us" group-logo="https://imgur.com/tys1wg3.png" tvg-logo="https://imgur.com/1ZFN7tD.png" group-title="Entertainment Channels", WPBF-ABC
+http://user.scalecdn.co:8080/43560245/01453157/672344
+
+==========================================================================================================
+NEWS CHANNELS
+
+
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" group-logo="https://imgur.com/nlMevV7.png" tvg-logo="https://imgur.com/wFuhV9D.png" group-title="News Channels", One News
+http://gamsgo.cyou:8080/GenIptv2023/XkgMCdR7PJzShK5m/299946
+
+==========================================================================================================
+EDUCATIONAL CHANNELS
+
+
+#EXTINF:-1 tvg-id="discoverylife.us" group-logo="https://imgur.com/HSwtl9G.png" tvg-logo="https://imgur.com/Fqn92T0.png" group-title="Educational Channels", Discovery Life
+http://user.scalecdn.co:8080/43560245/01453157/3858
+
+#EXTINF:-1 tvg-id="discoveryscience.us" group-logo="https://imgur.com/HSwtl9G.png" tvg-logo="https://i.imgur.com/FjS6twB.png" group-title="Educational Channels", Discovery Science
+http://user.scalecdn.co:8080/43560245/01453157/2595
+
+#EXTINF:-1 tvg-id="natgeo.us" group-logo="https://imgur.com/HSwtl9G.png" tvg-logo="https://imgur.com/oWllokd.png" group-title="Educational Channels", National Geographic
+http://user.scalecdn.co:8080/43560245/01453157/3665
+
+#EXTINF:-1 tvg-id="natgeowild.us" group-logo="https://imgur.com/HSwtl9G.png" tvg-logo="https://imgur.com/WPC2pYV.png" group-title="Educational Channels", Nat Geo Wild
+http://user.scalecdn.co:8080/43560245/01453157/3666
+
+==========================================================================================================
+FOREIGN CHANNELS
+
+
+#EXTINF: -1 tvg-id="CCTV.4.(Chile).(CCTV4).[1049].cr" group-logo="https://imgur.com/IAKBWWh.png" tvg-logo="https://imgur.com/haKsoQU.png" group-title="Foreign Channels", CCTV 4
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
