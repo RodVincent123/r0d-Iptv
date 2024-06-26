@@ -184,11 +184,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 #EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Movies Channels", HBO Signature
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CINEMAX.HD.my" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://i.imgur.com/r8qzNiy.png" group-title="Movies Channels", Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 tvg-id="CINEMAX.HD.my" group-logo="https://imgur.com/EHiCCnV.png" tvg-logo="https://imgur.com/luKbnNz" group-title="Movies Channels", Cinemax
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
