@@ -313,7 +313,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 #EXTINF:-1 tvg-id="Bloomberg.TV.HD.my" group-logo="https://imgur.com/nlMevV7.png" tvg-logo="https://imgur.com/UwhzV9x.png" group-title="News Channels", Bloomberg TV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CGTN.HD.my" group-logo="https://imgur.com/nlMevV7.png" tvg-logo="https://imgur.com/FHow0eq.png" group-title="News Channels", CGTN
+#EXTINF:-1 tvg-id="CGTN.HD.my" group-logo="https://imgur.com/nlMevV7.png" tvg-logo="https://imgur.com/MMZWxv4.png" group-title="News Channels", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -349,7 +349,7 @@ LIFESTYLE CHANNELS
 #EXTINF:-1 tvg-id="Asian.Food.Network.HD.my" group-logo="https://imgur.com/1F24sfd.png" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Lifestyle Channels", Asian Food Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Food.Network.(HD).sg" group-logo="https://imgur.com/1F24sfd.png" tvg-logo="https://i.imgur.com/EXC1yRz.png" group-title="Lifestyle Channels", Food Network
+#EXTINF:-1 tvg-id="Food.Network.(HD).sg" group-logo="https://imgur.com/1F24sfd.png" tvg-logo="https://imgur.com/TVLOWIp.png" group-title="Lifestyle Channels", Food Network
 https://gist.github.com/RodVincent123/399ede4a5fa94cea9440edcf976c209d/raw/65c17267496e813322d16c59726871e6a286ad5e/Food_Network.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -457,7 +457,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 #EXTINF:-1 tvg-id="GEM.(HD).sg" group-logo="https://imgur.com/IAKBWWh.png" tvg-logo="https://imgur.com/5wFMgZm.png" group-title="Foreign Channels", GEM
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#EXTINF:-1 tvg-id="CGTN.Documentary.id" group-logo="https://imgur.com/IAKBWWh.png" tvg-logo="https://imgur.com/PVMa96N.png" group-title="Foreign Channels", CGTN Documentary
+#EXTINF:-1 tvg-id="CGTN.Documentary.id" group-logo="https://imgur.com/IAKBWWh.png" tvg-logo="https://imgur.com/VUTFnhQ.png" group-title="Foreign Channels", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Tv5.Monde.ph" group-logo="https://imgur.com/IAKBWWh.png" tvg-logo="https://imgur.com/HfuIjYA.png" group-title="Foreign Channels", TV5 Monde Asie
