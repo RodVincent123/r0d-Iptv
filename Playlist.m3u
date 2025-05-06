@@ -21,9 +21,24 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/Rb9HLG4.png" group-title="Cignal TV", PTV 4
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/cOk9xOx.png" group-title="Cignal TV", Bilyornaryo
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/eh0i3BU.png" group-title="Cignal TV", Animax
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="Cignal TV", DreamWorks HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
@@ -39,11 +54,6 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/8FLuWPX.png" group-title="Cignal TV", HITS Now
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/cOk9xOx.png" group-title="Cignal TV", Bilyornaryo
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
@@ -76,24 +86,14 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/ZHsEAnC.png" group-title="Cignal TV", Mptv
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/LHEVH5B.png" group-title="Cignal TV", CNN
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="Cignal TV", DreamWorks HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/Rb9HLG4.png" group-title="Cignal TV", PTV 4
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/haKsoQU.png" group-title="Cignal TV", CCTV 4
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
@@ -106,16 +106,37 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/ZHsEAnC.png" group-title="Cignal TV", MPTV
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/rKCkaHh.png" group-title="Cignal TV", One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/haKsoQU.png" group-title="Cignal TV", CCTV 4
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/J4QCDLG.png" group-title="Cignal TV", PBA Rush
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/g5Q35IH.png" group-title="Cignal TV", NBA TV Philipines
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="Cignal TV", One Sports
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/rifinVV.png" group-title="Cignal TV", UAAP Varsity
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/rifinVV.png" group-title="Cignal TV", UAAP Varsity
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
