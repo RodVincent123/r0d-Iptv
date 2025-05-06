@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Kapamilya Channel HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Teleradyo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", ANC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", MYX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", GMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Bilyonaryo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", TV5 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", A2Z
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", NET 25
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", UNTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", PTV 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", DZRH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Knowledge Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Aliw Channel 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", CLTV 36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Spotlight TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", RJ Digi TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", RJTV 29
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", One Media
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com
