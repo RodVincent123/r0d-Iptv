@@ -10,17 +10,17 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/LLzut5K.png" group-title="IWantTFC", TFC
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/LLzut5K.png" group-title="IWantTFC", TFC Asia
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/C4YDwXg.png" group-title="IWantTFC", TFC Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/LLzut5K.png" group-title="IWantTFC", TFC Europe
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/GcbMJF0.png" group-title="IWantTFC", TFC Europe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
 https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/LLzut5K.png" group-title="IWantTFC", TFC Canada
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/8o8WftJ.png" group-title="IWantTFC", TFC Canada
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
