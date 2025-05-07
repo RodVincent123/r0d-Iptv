@@ -107,7 +107,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/jZHp4mi.png" group-title="Cignal TV", Viva Cinema
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/5lWGHfz.png" group-title="Cignal TV", Viva Cinema
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/viva_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -227,7 +227,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/wen3G1y.png" group-title="Cignal TV", Arirang
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/gJK10EC.png" group-title="Cignal TV", Arirang
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -337,7 +337,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/g5Q35IH.png" group-title="Cignal TV", NBA TV Philipines
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/Lnr6lOT.png" group-title="Cignal TV", NBA TV Philipines
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
