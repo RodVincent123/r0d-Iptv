@@ -112,7 +112,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/viva_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/buOVATz.png" group-title="Cignal TV", PBO
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/buOVATz.png" group-title="Cignal TV", Pinoy Box Office
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -132,7 +132,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Cignal TV", TMC
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Cignal TV", Tagalized Movies Channel
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
