@@ -25,7 +25,7 @@ https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/in
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/vlIFCLK.png" group-title="IWantTFC", PBB All-Access Livestream
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/zVjqvyo.png" group-title="IWantTFC", PBB All-Access Livestream
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
@@ -49,7 +49,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/M8W4Mr6.png" group-title="IWantTFC", MYX
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="IWantTFC", MYX
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
 EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/nUQhYuQ.png" group-title="IWantTFC", MOR Entertainment
