@@ -497,13 +497,13 @@ https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/in
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/q3PJ0av.png" group-title="IWantTFC", GMA Pinoy TV
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
-EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/RiMUtJo.png" group-title="IWantTFC", GMA Life TV
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/RiMUtJo.png" group-title="IWantTFC", GMA Life TV
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=369bcd591a7e42cea6a829879962ee77:7c0548d4ea14676297c0a36ea0e06301
 https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd
 
-EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/zhBWdd4.png" group-title="IWantTFC", GMA News TV
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/7ShXpn2.png" tvg-logo="https://imgur.com/zhBWdd4.png" group-title="IWantTFC", GMA News TV
 #EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
