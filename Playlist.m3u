@@ -36,7 +36,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/Org4yTu.png" group-title="Cignal TV", IBC 13
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/ibc13_sd.mpd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd_new.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
@@ -76,7 +76,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/eh0i3BU.png" group-title="Cignal TV", Animax
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_animax_sd.mpd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd_new.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
@@ -111,12 +111,12 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/5lWGHfz.png" group-title="Cignal TV", Viva Cinema
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/viva_sd.mpd
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://i.imgur.com/buOVATz.png" group-title="Cignal TV", Pinoy Box Office
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/pbo_sd.mpd
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
@@ -206,7 +206,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/WEqiYvg.png" tvg-logo="https://imgur.com/MMZWxv4.png" group-title="Cignal TV", CGTN
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cgtneng.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
