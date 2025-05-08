@@ -90,12 +90,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/p4axlOK.png" group-title="Converge Vision", RJ Digi TV
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/b9n0AbA.png" group-title="Converge Vision", DZRJ 810AM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/Tes4or4.png" group-title="Converge Vision", RJTV 29
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/Tes4or4.png" group-title="Converge Vision", RJ Digi TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -146,6 +146,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/q3gLnwP.png" group-title="Converge Vision", Moonbug Kids
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/1uG5QLr.png" group-title="Converge Vision", CBeebies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="Converge Vision", Cinemo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -229,17 +234,17 @@ http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="Converge Vision", HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001284/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/sDFfNjo.png" group-title="Converge Vision", HBO Family
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="Converge Vision", HBO Signature
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Converge Vision", HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -254,37 +259,37 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Lotus Macau
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/GVHdNx4.png" group-title="Converge Vision", Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001196/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", SolarFlix
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/wNMdOtQ.png" group-title="Converge Vision", SolarFlix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Jeepney TV
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/WnZJ4ev.png" group-title="Converge Vision", Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", AXN
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/cQyWr4F.png" group-title="Converge Vision", AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Lifetime
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/LmJTQ9f.png" group-title="Converge Vision", Lifetime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001075/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", NBA TV Philippines
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/Lnr6lOT.png" group-title="Converge Vision", NBA TV Philippines
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", RPTV
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/IDCHfXm.png" group-title="Converge Vision", RPTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
