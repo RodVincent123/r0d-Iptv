@@ -110,7 +110,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", LACH TV
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", LACH TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
