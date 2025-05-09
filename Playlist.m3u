@@ -806,17 +806,22 @@ http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", One Sports
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/iyBXXpU.png" group-title="Converge Vision", One Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Motor Vision+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://i.imgur.com/rKCkaHh.png" group-title="Converge Vision", One Sports+
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/9dUdcUJ.png" group-title="Converge Vision", Motor Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Eurosports
+#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/TeqLnaX.png" group-title="Converge Vision", Eurosports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -835,11 +840,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", SLA Junior
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" group-logo="https://imgur.com/Y7kurKq.png" tvg-logo="https://imgur.com/qRkCIzr.png" group-title="Converge Vision", Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
